@@ -1,1 +1,1 @@
-{'ver1':'10', 'ver2':'90', 'ver3':'\n•[اصلاح]مشكله ارسال الموقع \n•[اصلاح]زر موقعي في الخريطة \n•[اصلاح]انهيار عند فتح التطبيق في بعض الاجهزة \n•[اصلاح]اصلاح الرسائل المجدولة \n•[مزيد]إصلاحات وتحسينات أخرى \n\n' , 'dli':'https://www.whats0mar.com/2023/07/wats-abu3rab-golden.html'}
+{'ver1':'25', 'ver2':'50', 'ver3':'\n• [Fun new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://t.me/whatsapp_abu3rab'}
