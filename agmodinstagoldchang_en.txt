@@ -1,0 +1,6 @@
+Version 7.0 Changelog:
+
+>[Base update] 292.0.0.31.110
+>[Exclusive] Added Show Deleted Messages
+>[Fixed] Problem of the disappearance call button in the conversation
+>[Fixed] Many Random Crash
