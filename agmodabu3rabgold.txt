@@ -1,1 +1,1 @@
-{'ver1':'25', 'ver2':'50', 'ver3':'\n• [Fun new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://t.me/whatsapp_abu3rab'}
+{'ver1':'11', 'ver2':'15', 'ver3':'\n•[تحديث اجباري]يجب تحديث الواتساب لحل جميع المشاكل\n•[اصلاح]اصلاح انهيار التطبيق في بعض المحادثات \n•[اصلاح]اصلاح انهيار التطبيق عند مشاهده ستوري \n•[مزيد]إصلاحات وتحسينات أخرى \n\n' , 'dli':'https://www.whats0mar.com/2023/07/wats-abu3rab-golden.html'}
