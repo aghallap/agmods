@@ -1,11 +1,13 @@
-Ø§Ù„Ø¥ØµØ¯Ø§Ø± 2.70 Ø§Ù„ØªØºÙŠÙŠØ±Ø§Øª:
+Version 2.90. Changelog:
 
-> ØªØ­Ø¯ÙŠØ« ÙƒÙˆØ¯ Ø§Ù„Ù…ØµØ¯Ø± Ø¥Ù„Ù‰ v9.7.4.0.
-> Ø§Ø¶Ø§ÙØ© Ù…Ø¨Ø²Ø© Ø§Ù„Ù‚ØµØµ
-> Ø®ÙŠØ§Ø± Ù„Ø¥Ø®ÙØ§Ø¡ Ø²Ø± Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ Ø§Ù„Ù…Ø­ÙÙˆØ¸Ø© Ù…Ù† Ø§Ù„Ù‚Ø§Ø¦Ù…Ø©.
-> Ø®ÙŠØ§Ø± Ù„Ø¥Ø®ÙØ§Ø¡ Ø²Ø± Ù…Ø§Ø¦Ù„ Ø¨ÙˆØª ÙÙŠ Ø§Ù„Ø¯Ø±Ø¯Ø´Ø©.
-> Ù…Ø¬Ù„Ø¯Ø§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ù‚Ø§Ø¨Ù„Ø© Ù„Ù„Ù…Ø´Ø§Ø±ÙƒØ©: ÙŠÙ…ÙƒÙ†Ùƒ Ù…Ø´Ø§Ø±ÙƒØ© Ù…Ø§ ÙŠØµÙ„ Ø¥Ù„Ù‰ 200 Ø¯Ø±Ø¯Ø´Ø© Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø±Ø§Ø¨Ø· Ø¯Ø¹ÙˆØ© ÙˆØ§Ø­Ø¯.
-> Ø®Ù„ÙÙŠØ§Øª Ù…Ø®ØµØµØ©: Ù‚Ù… Ø¨ØªØ¹ÙŠÙŠÙ† Ø®Ù„ÙÙŠØ© ÙØ±Ø¯ÙŠØ© Ù„Ø£ÙŠ Ø¯Ø±Ø¯Ø´Ø© Ø¨ÙŠÙ† Ø´Ø®ØµÙŠÙ†. ÙŠÙ…ÙƒÙ† Ù„Ø´Ø±ÙŠÙƒ Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø®Ø§Øµ Ø¨Ùƒ ØªØ·Ø¨ÙŠÙ‚ Ù†ÙØ³ Ø§Ù„Ø®Ù„ÙÙŠØ© Ø£Ùˆ Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ø®Ù„ÙÙŠØ© Ø§Ù„Ø®Ø§ØµØ© Ø¨Ù‡Ù….
-> Ø¨ÙˆØªØ³ Ø£ÙØ¶Ù„: Ù‚Ù… Ø¨ØªØ´ØºÙŠÙ„ ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„ÙˆÙŠØ¨ Ù…Ù† Ø£ÙŠ Ø¯Ø±Ø¯Ø´Ø©. ØªØ¯Ø¹Ù… ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„ÙˆÙŠØ¨ ÙÙŠ Ø§Ù„Ù…Ø¬Ù…ÙˆØ¹Ø§Øª Ù…ÙŠØ²Ø§Øª Ø§Ù„ØªØ¹Ø§ÙˆÙ† ÙˆØªØ¹Ø¯Ø¯ Ø§Ù„Ù„Ø§Ø¹Ø¨ÙŠÙ†.
-> ØªØ­Ø³ÙŠÙ†Ø§Øª Ø£Ø®Ø±Ù‰: ØªÙ†Ø²ÙŠÙ„Ø§Øª ÙˆØªØ´ØºÙŠÙ„ Ø£ÙØ¶Ù„ Ù„Ù„ÙÙŠØ¯ÙŠÙˆ ØŒ Ø¨Ø·Ø§Ù‚Ø© SD Ù…Ø­Ø³Ù‘Ù†Ø© ÙˆØ¯Ø¹Ù… Ø³Ù…Ø§Ø¹Ø© Ø±Ø£Ø³ Ø¨Ø®Ø§ØµÙŠØ© Ø§Ù„Ø¨Ù„ÙˆØªÙˆØ«.
-> Ø¥ØµÙ„Ø§Ø­Ø§Øª Ù„Ù„Ø£Ø®Ø·Ø§Ø¡ ÙˆØªØ­Ø³ÙŠÙ†Ø§Øª Ø·ÙÙŠÙØ© Ø£Ø®Ø±Ù‰.
+> Source code updated to v10.1.1.0. 
+> Stories for Channels: Users can grant their favorite channels the ability to post stories by giving them boosts.
+> Reaction Stickers in Stories: Both users and channels can add reaction stickers to their stories.
+> Your Music in Stories: Audio files on your device can be used in photo and video stories.
+> View-Once Media: Self-destructing media is even easier to use, has a new look, and a new 'View Once' setting.
+> New Login Alerts: New logins now display an alert at the top of your chat list.
+> Added option to open profile pics instead of stories
+> Added option to show profile pic date instead of status
+> Added option to share profile pic directly from profile
+> Tap and hold profile pic to open profile pics, even if user has stories pics
+> Bug fixes and other minor improvements
