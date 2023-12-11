@@ -1,6 +1,6 @@
-Version 2.90. Changelog:
+Version v3.2.0. Changelog:
 
-> Source code updated to v10.1.1.0. 
+> Source code updated to v10.3.2.0. 
 > Stories for Channels: Users can grant their favorite channels the ability to post stories by giving them boosts.
 > Reaction Stickers in Stories: Both users and channels can add reaction stickers to their stories.
 > Your Music in Stories: Audio files on your device can be used in photo and video stories.
