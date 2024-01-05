@@ -1,4 +1,4 @@
-Version 7.0 Changelog:
+Version 8.0 Changelog:
 
 >[Base update] 292.0.0.31.110
 >[Exclusive] Added Show Deleted Messages
