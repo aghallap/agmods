@@ -1,13 +1,11 @@
-Version v3.2.0. Changelog:
+Version 3.3.0. Changelog:
 
-> Source code updated to v10.3.2.0. 
-> Stories for Channels: Users can grant their favorite channels the ability to post stories by giving them boosts.
-> Reaction Stickers in Stories: Both users and channels can add reaction stickers to their stories.
-> Your Music in Stories: Audio files on your device can be used in photo and video stories.
-> View-Once Media: Self-destructing media is even easier to use, has a new look, and a new 'View Once' setting.
-> New Login Alerts: New logins now display an alert at the top of your chat list.
-> Added option to open profile pics instead of stories
-> Added option to show profile pic date instead of status
-> Added option to share profile pic directly from profile
-> Tap and hold profile pic to open profile pics, even if user has stories pics
-> Bug fixes and other minor improvements
+> Source code updated to v10.6.4.1.
+> Self-destructing Voice Messages: Users can now send a voice message that can be listened to only once, after which it self-destructs.
+> Self-destructing Video Messages: Like self-destructing voice messages, video messages disappear after the first view.
+> Pause During Recording: Pause and play back a voice or a video message before it is sent.
+> Updated Saved Messages.
+> Limit Who You Can Receive Private Messages From.
+> Message Reading Time in Private Chats.
+> Colorful Calls, Thanos Snap Effect, and an Epic Update for Bots
+> Bug fixes and other minor improvements.
